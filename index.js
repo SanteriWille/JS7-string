@@ -74,4 +74,4 @@ everyThreeLetters(parameter1, parameter2);
 
 // Oppgaven var grei
 // Vanskelige oppgaver
-// 
+//
